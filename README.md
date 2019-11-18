@@ -1,4 +1,4 @@
-						                                        README SFExtDBCtrl
+						 README SFExtDBCtrl
 
 SFExtDBCtrl are advanced VCL Controls for Delphi.
 
