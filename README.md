@@ -2,7 +2,7 @@
 
 SFExtDBCtrl are advanced VCL Controls for Delphi.
 
-SFExtDBCtrl is free of charge and uses the terms of the MIT license - see License_En.txt
+SFExtDBCtrl is free of charge and uses the terms of the MIT license - see work/License_En.txt
 
 If you like SFExtDBCtrl you can financially support the development of SFExtDBCtrl.
 Therefore please use the following PayPal-Link: 
