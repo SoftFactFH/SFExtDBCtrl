@@ -1,6 +1,6 @@
 						 README SFExtDBCtrl
 
-SFExtDBCtrl are advanced VCL Controls for Delphi.
+SFExtDBCtrl are advanced databounded VCL Controls for Delphi.
 
 SFExtDBCtrl is free of charge and uses the terms of the MIT license - see work/License_En.txt
 
